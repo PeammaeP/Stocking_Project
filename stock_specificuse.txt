@@ -1,0 +1,5 @@
+trinolone 02/2000 05/2012 651324 use-only-mouth 20 4 5 use-only-oral
+tylenol 01/2014 05/2020 713645 use-when-have-headache 30 10 3 heal-headache
+lorsidin 03/2010 06/2015 146352 avoid-anaphylactic 25 6 2 decrease-histamine
+motilium 10/2011 12/2015 243846 risky-heart-ryh_cardia 40 26 10 when-flatulence-only
+norgesic 08/2015 06/2020 451325 risky-myasthenia_g 15 10 4 feel-sleepy
